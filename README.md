@@ -12,7 +12,7 @@ Smart speakers use the following AI technologies:
 3. Machine Learning (ML): Learns user preferences and improves its responses over time.
 4. Voice Assistant Technology: Provides intelligent responses and performs tasks such as playing music, setting alarms, and answering questions.
 5. Internet of Things (IoT): Connects smart speakers with other smart devices such as lights, fans, and televisions.
-   
+ 
 # WORKING PRINCIPLE 
 The working principle of a smart speaker involves the following steps:
 1. Wake Word Detection: The device listens for a wake word such as "Alexa", "Hey Google", or "Hey Siri".
